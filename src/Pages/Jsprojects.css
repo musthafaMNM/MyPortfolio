@@ -6,15 +6,15 @@
 .jsprojects iframe {
   margin-bottom: 7px;
 }
-.jsprojects a.github {
+/* .jsprojects a.github {
   margin-bottom: 35px;
-}
-.jsprojects a.github img {
+} */
+/* .jsprojects a.github img {
   width: 20px;
   margin-top: -5px;
   transition: 0.2s ease-in;
   margin-bottom: 0px;
-}
+} */
 .jsprojects .btn:hover img {
   filter: brightness(0) invert(1);
 }

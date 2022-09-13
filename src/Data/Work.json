@@ -1,16 +1,16 @@
 [
     {
         "id":1,
-        "year":"Jun, 2020 - Jan, 2022",
-        "companyname":"Dots & Coms",
-        "position":"Web Developer",
-        "desc":"- HTML, CSS, Bootstrap, Javascript, jQuery, Sass, Photoshop, Wordpress \n - Increase performance & speed of the website \n - SEO and Rankings"
+        "year":"Nov, 2020 - Feb, 2021",
+        "companyname":"CAV Designs",
+        "position":"Entrepreneur",
+        "desc":"-Designers tables using wood and epoxy resin  \n - Digital Marketing"
     },
     {
         "id":2,
-        "year":"Jan, 2020 - May, 2020",
-        "companyname":"Enovative Media",
-        "position":"Web Developer",
+        "year":"Aug, 2021 - Feb, 2022",
+        "companyname":"IPPI ecolife",
+        "position":"Entrepreneur",
         "desc":"- HTML, CSS, Bootstrap, Javascript, jQuery \n - Wordpress (Elementor, Visual Composer, WP Bakery) \n - Customize themes"
     }
 

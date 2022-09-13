@@ -7,7 +7,7 @@ import Education from "../assets/img/education.png";
 import Projects from "../assets/img/portfolio.png";
 import Services from "../assets/img/services.png";
 import Work from "../assets/img/work.png";
-import Jsprojects from "../assets/img/jsprojects.png";
+// import Jsprojects from "../assets/img/jsprojects.png";
 import { Link } from "react-router-dom";
 
 const Nav = () => {
@@ -44,7 +44,7 @@ const Nav = () => {
           </Link>
           <Link to="/projects">
             <li data-aos="zoom-in">
-              <img src={Jsprojects} alt="jsprojects" />
+              {/* <img src={Jsprojects} alt="jsprojects" /> */}
             </li>
           </Link>
           <Link to="/portfolio">
@@ -62,7 +62,7 @@ const Nav = () => {
 
       <div id="navigation-mob">
         <h1 data-aos="fade-in">
-          <Link to="/myportfolio">Pooja Garva</Link>
+          <Link to="/myportfolio">Muhammed Musthafa</Link>
         </h1>
         <i
           data-aos="fade-in"

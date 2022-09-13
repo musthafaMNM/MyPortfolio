@@ -1,7 +1,7 @@
 import React from "react";
 import "./Home.css";
 import profileimg from "../assets/img/profileimg.png";
-import Pdf from "../assets/pdf/poojagarva.pdf";
+import Pdf from "../assets/pdf/muhammed musthafa.pdf";
 import { Link } from "react-router-dom";
 import Linkedinicon from "../assets/img/socialicons/linkedin.png";
 import Instagramicon from "../assets/img/socialicons/instagram.png";
@@ -18,12 +18,12 @@ const Home = () => {
               <img
                 src={profileimg}
                 data-aos="flip-right"
-                alt="Pooja Garva"
+                alt="Muhammed Musthafa"
                 className="img-fluid"
               />
               <div className="socialmedia">
                 <a
-                  href="https://www.linkedin.com/in/poojagarva/"
+                  href="https://www.linkedin.com/in/musthafa-MNM"
                   target="_blank"
                   rel="noreferrer"
                 >
@@ -35,7 +35,7 @@ const Home = () => {
                   />
                 </a>
                 <a
-                  href="https://github.com/poojagarva28"
+                  href="https://github.com/musthafaMNM"
                   target="_blank"
                   rel="noreferrer"
                 >
@@ -47,7 +47,7 @@ const Home = () => {
                   />
                 </a>
                 <a
-                  href="https://www.instagram.com/placesiwandered/"
+                  href="https://www.instagram.com/musthafa_mnm/"
                   target="_blank"
                   rel="noreferrer"
                 >
@@ -59,7 +59,7 @@ const Home = () => {
                   />
                 </a>
                 <a
-                  href="mailto:poojagarva123@gmail.com"
+                  href="mailto:muhammed815786@gmail.com"
                   target="_blank"
                   rel="noreferrer"
                 >
@@ -76,13 +76,13 @@ const Home = () => {
           </div>
           <div className="col-sm-5 offset-sm-2">
             <div className="rightcontent" data-aos="fade-right">
-              <h1>Pooja Garva</h1>
+              <h1>Muhammed Musthafa</h1>
               <h2>Front End Developer</h2>
               <br />
               <div className="row">
                 <div className="col-sm-4 col-6">
                   <a href={Pdf} target="_blank" rel="noreferrer">
-                    <button type="button" className="btn btn-primary">
+                    <button type="button" className="btn btn-primary">  
                       Resume
                     </button>
                   </a>

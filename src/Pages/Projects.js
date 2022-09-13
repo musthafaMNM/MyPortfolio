@@ -1,13 +1,13 @@
 import React from "react";
-import onelife from "../Data/Portfolioimg/1life.png";
-import alembicaustralia from "../Data/Portfolioimg/alembicaustralia.png";
-import avidorganics from "../Data/Portfolioimg/avidorganics.png";
-import baggsinc from "../Data/Portfolioimg/baggsinc.png";
-import designmaxinteriors from "../Data/Portfolioimg/designmaxinteriors.png";
-import drdharabhatt from "../Data/Portfolioimg/drdharabhatt.png";
-import mastercoin from "../Data/Portfolioimg/mastercoin.png";
-import thecafemasala from "../Data/Portfolioimg/thecafemasala.png";
-import wimetlab from "../Data/Portfolioimg/wimetlab.png";
+import one from "../Data/Portfolioimg/one.png";
+import two from "../Data/Portfolioimg/two.png";
+import three from "../Data/Portfolioimg/three.png";
+import four from "../Data/Portfolioimg/four.png";
+import five from "../Data/Portfolioimg/five.png";
+import six from "../Data/Portfolioimg/six.png";
+import seven from "../Data/Portfolioimg/seven.png";
+import eight from "../Data/Portfolioimg/eight.png";
+import nine from "../Data/Portfolioimg/nine.png";
 import "./Projects.css";
 
 const Portfolio = () => {
@@ -23,71 +23,69 @@ const Portfolio = () => {
               </div>
               <div className="col-sm-4">
                 <div className="imgsec" data-aos="zoom-in">
-                  <img src={onelife} className="img-fluid" alt="1Life" />
+                  <img src={one} className="img-fluid" alt="one" />
                 </div>
               </div>
               <div className="col-sm-4">
                 <div className="imgsec" data-aos="zoom-in">
                   <img
-                    src={alembicaustralia}
+                    src={two}
                     className="img-fluid"
-                    alt="Alembic"
+                    alt="two"
                   />
                 </div>
               </div>
               <div className="col-sm-4">
                 <div className="imgsec" data-aos="zoom-in">
                   <img
-                    src={avidorganics}
+                    src={three}
                     className="img-fluid"
-                    alt="AvidOrganics"
+                    alt="three"
                   />
                 </div>
               </div>
               <div className="col-sm-4">
                 <div className="imgsec" data-aos="zoom-in">
-                  <img src={baggsinc} className="img-fluid" alt="BaggsInc" />
+                  <img src={four} className="img-fluid" alt="four" />
                 </div>
               </div>
               <div className="col-sm-4">
                 <div className="imgsec" data-aos="zoom-in">
-                  <img
-                    src={designmaxinteriors}
-                    className="img-fluid"
-                    alt="DesignMaxInteriors"
+        
+                   <img src={five} alt="five"
                   />
                 </div>
               </div>
               <div className="col-sm-4">
                 <div className="imgsec" data-aos="zoom-in">
                   <img
-                    src={drdharabhatt}
+                    src={six}
                     className="img-fluid"
-                    alt="DrDharaBhatt"
+                    alt="six"
                   />
                 </div>
               </div>
               <div className="col-sm-4">
                 <div className="imgsec">
                   <img
-                    src={mastercoin}
+                    src={seven}
                     className="img-fluid"
-                    alt="Mastercoin"
+                    alt="seven"
                   />
                 </div>
               </div>
               <div className="col-sm-4">
                 <div className="imgsec">
                   <img
-                    src={thecafemasala}
+                    src={eight}
                     className="img-fluid"
-                    alt="TheCafeMasala"
+                    alt="eight"
                   />
                 </div>
               </div>
               <div className="col-sm-4">
                 <div className="imgsec">
-                  <img src={wimetlab} className="img-fluid" alt="WiMetLab" />
+                  <img src={nine} className="img-fluid" alt="nine" />
                 </div>
               </div>
             </div>

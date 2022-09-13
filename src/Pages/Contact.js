@@ -36,7 +36,7 @@ const Contact = () => {
           <div className="col-sm-6 offset-sm-3">
             <h2 data-aos="fade-up">Contact</h2>
             <br />
-            <form onSubmit={sendEmail} ref={formRef}>
+            <form method="POST" action="https://getform.io/f/7daf62d3-2208-41e2-929e-f7907ca09885" >
               {/* <form ref={formRef}> */}
               <input
                 data-aos="fade-up"

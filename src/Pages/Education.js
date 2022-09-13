@@ -20,7 +20,7 @@ const Education = () => {
               </li>
               <li className="nav-item">
                 <a className="nav-link" data-bs-toggle="tab" href="#internship">
-                  Internship
+                  Training
                 </a>
               </li>
             </ul>
@@ -31,7 +31,7 @@ const Education = () => {
                     <div className="row" key={i}>
                       <div className="col-sm-5">
                         <h5 data-aos="fade-right">
-                          {item.coursename} - {item.courseyear}
+                          {item.coursename}  {item.courseyear}
                         </h5>
                       </div>
                       <div className="col-sm-7">
@@ -48,21 +48,40 @@ const Education = () => {
                 <div className="educationblock">
                   <div className="row">
                     <div className="col-sm-4">
-                      <h5 data-aos="fade-right">Jan, 2019 - May, 2019</h5>
+                      <h5 data-aos="fade-right">March, 2021 - June, 2021</h5>
                     </div>
                     <div className="col-sm-8">
                       <div className="educationright" data-aos="fade-left">
-                        <h5>Infibeam Avenues Limited</h5>
-                        <h6>Project - "E-Commerce and Retailing System"</h6>
+                        <h5>Quest Innovative Solutions</h5>
+                        <h6>Full Stack Developer</h6>
                         <h6>
-                          - HTML, CSS, Bootstrap, Javascript, jQuery
+                          - HTML,CSS,Javasript and Bootstrap 
                           <br />
-                          - Wordpress
+                          - Python(Django),C++
                           <br />
-                          - Customize Themes
+                          - React,Redux,Mongo and Deployment 
                           <br />
-                          - Woocommerce
-                          <br />- Stripe
+                          
+                          <br />
+                        </h6>
+                      </div>
+                    </div>
+                    <div className="col-sm-4">
+                      <h5 data-aos="fade-right">March, 2022 - July, 2022</h5>
+                    </div>
+                    <div className="col-sm-8">
+                      <div className="educationright" data-aos="fade-left">
+                        <h5>Avery interactive</h5>
+                        <h6>Graphic Designer</h6>
+                        <h6>
+                          - Photoshop, Wordpress 
+                          <br />
+                          - CorelDraw 
+                          <br />
+                          - Digital Marketing
+                          <br />
+                          
+                          <br />
                         </h6>
                       </div>
                     </div>

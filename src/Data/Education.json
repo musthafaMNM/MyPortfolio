@@ -1,30 +1,30 @@
 [
     {
         "id":1,
-        "coursename":"Graphic Design",
-        "courseyear":"2020",
-        "institute":"Kalapurnam Institute",
-        "grade":"A+ Grade"
+        "coursename":"",
+        "courseyear":"",
+        "institute":"",
+        "grade":""
     },
     {
         "id":2,
-        "coursename":"B.Tech in Computer Science and Engineering",
-        "courseyear":"2019",
-        "institute":"Nirma University",
+        "coursename":"B.Tech in Electronics And Communication Engineering",
+        "courseyear":"2020",
+        "institute":"APJ Abdul Kalam Technological University",
         "grade":"68% Percentage"
     },
     {
         "id":3,
-        "coursename":"Diploma in Computer Engineering",
-        "courseyear":"2016",
-        "institute":"Tolani Foundation Gandhidham Polytechnic",
-        "grade":"84% Percentage"
+        "coursename":"HSC",
+        "courseyear":"2013",
+        "institute":"The Central School,Dubai",
+        "grade":"63% Percentage"
     },
     {
         "id":4,
-        "coursename":"SSC",
-        "courseyear":"2013",
-        "institute":"St. Xavier's High School",
-        "grade":"82.83% Percentage"
+        "coursename":"SSLC",
+        "courseyear":"2011",
+        "institute":"The Central School,Dubai",
+        "grade":"76% Percentage"
     }
 ]
