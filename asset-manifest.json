@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/myportfolio/static/css/main.fbcec51f.css",
+    "main.js": "/myportfolio/static/js/main.fda21ac7.js",
+    "static/js/787.27ca2965.chunk.js": "/myportfolio/static/js/787.27ca2965.chunk.js",
+    "static/media/three.png": "/myportfolio/static/media/three.29768964dbe682dfc4ab.png",
+    "static/media/two.png": "/myportfolio/static/media/two.92ed5a549d993e0fd10a.png",
+    "static/media/one.png": "/myportfolio/static/media/one.8ca9b9691d244e0edcc8.png",
+    "static/media/five.png": "/myportfolio/static/media/five.c1105e544ff19311aadc.png",
+    "static/media/four.png": "/myportfolio/static/media/four.1a5e886bfb9c8aed1525.png",
+    "static/media/six.png": "/myportfolio/static/media/six.e5b85f229635cc96fbf5.png",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/myportfolio/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/nine.png": "/myportfolio/static/media/nine.23d1ae815c364d515865.png",
+    "static/media/seven.png": "/myportfolio/static/media/seven.448b104efa72a6e033f4.png",
+    "static/media/eight.png": "/myportfolio/static/media/eight.a3667cb10de49a915142.png",
+    "static/media/fontawesome-webfont.eot": "/myportfolio/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/myportfolio/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/project1.png": "/myportfolio/static/media/project1.c84a46c26ddc0831c611.png",
+    "static/media/muhammed musthafa.pdf": "/myportfolio/static/media/muhammed musthafa.06a0d99a2c28691faefc.pdf",
+    "static/media/project3.png": "/myportfolio/static/media/project3.2403e42c7231746c7c0e.png",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/myportfolio/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/project2.png": "/myportfolio/static/media/project2.7cac1ea534b9a98ac770.png",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/myportfolio/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/profileimg.png": "/myportfolio/static/media/profileimg.f867883a19b7d2ab8ace.png",
+    "static/media/github.png": "/myportfolio/static/media/github.22cfdd1cba253783ce51.png",
+    "static/media/instagram.png": "/myportfolio/static/media/instagram.81d74f5b76e85ca7cd6a.png",
+    "index.html": "/myportfolio/index.html",
+    "main.fbcec51f.css.map": "/myportfolio/static/css/main.fbcec51f.css.map",
+    "main.fda21ac7.js.map": "/myportfolio/static/js/main.fda21ac7.js.map",
+    "787.27ca2965.chunk.js.map": "/myportfolio/static/js/787.27ca2965.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fbcec51f.css",
+    "static/js/main.fda21ac7.js"
+  ]
+}
